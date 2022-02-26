@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Vphundekar02
 - 👀 I’m interested in 3D Modeling & Game Development
 - 🌱 I’m currently learning Blender & Unity
-- 💞️ I’m looking to collaborate on 3D Modeling
 - 📫 How to reach me ...
 
 <!---
