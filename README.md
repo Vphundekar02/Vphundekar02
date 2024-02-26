@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vphundekar02
-- 👀 I’m interested in 3D Modeling & Game Development
-- 🌱 I’m currently learning Blender & Unity
-- 📫 How to reach me ...
+- 👀 I’m interested in Programming and Designing
+- 🌱 I’m currently learning NodeJS
+- 📫 How to reach me ... vphundekar02@gmail.com
 
 <!---
 Vphundekar02/Vphundekar02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
